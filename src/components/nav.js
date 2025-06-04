@@ -28,7 +28,7 @@ const Nav = () => {
             No<span className="text-[#4ADE80]">NetPay</span>
           </p>
         </Link>
-        <Link href={"https://www.loom.com/share/daf59647246b49649e8fc56e54157627?sid=1285f8c8-ac4f-4204-ae6d-c72001337cf8"} target="_blank">
+        <Link href={"https://youtu.be/icikfAPobLw"} target="_blank">
         <button
           className="hidden md:flex border-gray-700 text-gray-300 justify-between items-center px-6 py-3 border hover:bg-white hover:text-black transition-colors duration-200 ease-in-out group text-xs"
         >
